@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  hogenter: MyString
+  body: MyText
+  hoge: 
+
+two:
+  hogenter: MyString
+  body: MyText
+  hoge: 
